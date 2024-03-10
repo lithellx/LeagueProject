@@ -8,7 +8,7 @@ Just open the program and it will automatically do the stuff.
 [Working]
 
 ## Download
--
+[https://www.unknowncheats.me/forum/league-of-legends/626783-auto-accept-lobby-reveal.html](https://www.unknowncheats.me/forum/league-of-legends/626783-auto-accept-lobby-reveal.html)
 
 ## Credits
 [iBaseUlt](https://github.com/Baseult)
