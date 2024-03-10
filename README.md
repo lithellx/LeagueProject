@@ -7,9 +7,6 @@ Just open the program and it will automatically do the stuff.
 ## Status
 [Working]
 
-## Media
--
-
 ## Download
 -
 
