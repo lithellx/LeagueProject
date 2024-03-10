@@ -13,8 +13,5 @@ Just open the program and it will automatically do the stuff.
 ## Download
 -
 
-## Authors
-[lithellx](https://github.com/lithellx)
-
 ## Credits
 [iBaseUlt](https://github.com/Baseult)
